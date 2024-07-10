@@ -5,51 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   <title>Kuliner Nusantara</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #fff;
-    }
-
-    .title {
-        color: black;
-        padding: 15px;
-        font-size: 24px;
-        text-align: left;
-        text-decoration: none;
-        display: block;
-        font-weight: bold;
-    }
-    .title:hover {
-        color: black;
-        text-decoration: none; 
-    }
-
-    .sidebar {
-      height: 100vh;
-      background-color: #fdd835; /* Warna kuning */
-      padding-top: 20px;
-      position: fixed;
-      
-    }
-    .sidebar-item {
-      color: black;
-      padding: 15px;
-      text-align: left;
-      text-decoration: none;
-      display: block;
-      font-weight: bold;
-    }
-    .sidebar-item:hover {
-        text-decoration: none;
-      background-color: #ffeb3b; /* Warna kuning terang saat hover */
-      color: black;
-    }
-    .content {
-      margin-left: 200px;
-      padding: 20px;
-    }
-  </style>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg bg-warning">
@@ -88,7 +43,6 @@
           </div>
         </div>
       </nav>
-
 
   <!-- Footer -->
   <footer class="bg-dark text-white mt-5">
