@@ -44,6 +44,8 @@
         </div>
       </nav>
 
+      @yield('content')
+
   <!-- Footer -->
   <footer class="bg-dark text-white mt-5">
     <div class="container p-4">
